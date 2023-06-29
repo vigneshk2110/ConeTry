@@ -1,0 +1,13 @@
+# ConeTry
+it was a mistake done in Main Branch in Local
+
+This line was added in Remote - GitHub
+
+This line is added in "new" Branch & will be pushed to remote directly from new branch instead of merge to main & pushing it.
+
+<<<<<<< HEAD
+2
+
+=======
+1
+>>>>>>> new
